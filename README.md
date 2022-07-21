@@ -16,3 +16,5 @@ Boushi - boné
 Omocha - brinquedo
 
 Dare - quem 
+
+Saifu - carteira
